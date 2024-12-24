@@ -1,0 +1,6 @@
+C:\Users\315\source\repos\HobbyLibrary\HobbyLibrary\bin\Debug\HobbyLibrary.dll
+C:\Users\315\source\repos\HobbyLibrary\HobbyLibrary\bin\Debug\HobbyLibrary.pdb
+C:\Users\315\source\repos\HobbyLibrary\HobbyLibrary\obj\Debug\HobbyLibrary.csproj.AssemblyReference.cache
+C:\Users\315\source\repos\HobbyLibrary\HobbyLibrary\obj\Debug\HobbyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\315\source\repos\HobbyLibrary\HobbyLibrary\obj\Debug\HobbyLibrary.dll
+C:\Users\315\source\repos\HobbyLibrary\HobbyLibrary\obj\Debug\HobbyLibrary.pdb
