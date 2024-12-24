@@ -11,6 +11,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            //Сущик А.В.
             List<Hobby> hobbies = new List<Hobby>();
             hobbies.Add(new Hobby("Баскетбол", "Кидать мячик в корзину"));
             hobbies.Add(new Hobby("Вязание", "Крестиком и шпицами"));
