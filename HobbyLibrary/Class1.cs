@@ -8,6 +8,7 @@ namespace HobbyLibrary
 {
     public class Hobby
     {
+        //Сущик А.В.
         private string name;
         public string Name
         {
